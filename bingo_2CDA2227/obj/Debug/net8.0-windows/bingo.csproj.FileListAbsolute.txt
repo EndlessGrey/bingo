@@ -1,0 +1,14 @@
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\bin\Debug\net8.0-windows\bingo.exe
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\bin\Debug\net8.0-windows\bingo.deps.json
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\bin\Debug\net8.0-windows\bingo.runtimeconfig.json
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\bin\Debug\net8.0-windows\bingo.dll
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\bin\Debug\net8.0-windows\bingo.pdb
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0-windows\bingo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0-windows\bingo.AssemblyInfoInputs.cache
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0-windows\bingo.AssemblyInfo.cs
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0-windows\bingo.csproj.CoreCompileInputs.cache
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0-windows\bingo.dll
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0-windows\refint\bingo.dll
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0-windows\bingo.pdb
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0-windows\bingo.genruntimeconfig.cache
+c:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0-windows\ref\bingo.dll

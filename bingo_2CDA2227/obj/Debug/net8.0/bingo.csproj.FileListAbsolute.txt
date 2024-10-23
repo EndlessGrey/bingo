@@ -1,0 +1,14 @@
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\bin\Debug\net8.0\bingo.exe
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\bin\Debug\net8.0\bingo.deps.json
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\bin\Debug\net8.0\bingo.runtimeconfig.json
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\bin\Debug\net8.0\bingo.dll
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\bin\Debug\net8.0\bingo.pdb
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0\bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0\bingo.AssemblyInfoInputs.cache
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0\bingo.AssemblyInfo.cs
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0\bingo.csproj.CoreCompileInputs.cache
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0\bingo.dll
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0\refint\bingo.dll
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0\bingo.pdb
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0\bingo.genruntimeconfig.cache
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\bingo\obj\Debug\net8.0\ref\bingo.dll
