@@ -1,0 +1,14 @@
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\bin\Debug\net8.0-windows\BingoCard.exe
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\bin\Debug\net8.0-windows\BingoCard.deps.json
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\bin\Debug\net8.0-windows\BingoCard.runtimeconfig.json
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\bin\Debug\net8.0-windows\BingoCard.dll
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\bin\Debug\net8.0-windows\BingoCard.pdb
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\obj\Debug\net8.0-windows\BingoCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\obj\Debug\net8.0-windows\BingoCard.AssemblyInfoInputs.cache
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\obj\Debug\net8.0-windows\BingoCard.AssemblyInfo.cs
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\obj\Debug\net8.0-windows\BingoCard.csproj.CoreCompileInputs.cache
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\obj\Debug\net8.0-windows\BingoCard.dll
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\obj\Debug\net8.0-windows\refint\BingoCard.dll
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\obj\Debug\net8.0-windows\BingoCard.pdb
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\obj\Debug\net8.0-windows\BingoCard.genruntimeconfig.cache
+C:\Users\13726\OneDrive\桌面\school\社会情報実践\BingoCard\obj\Debug\net8.0-windows\ref\BingoCard.dll
